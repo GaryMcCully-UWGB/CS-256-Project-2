@@ -1,0 +1,1 @@
+run = "javac Project_2_EnhancedWidgetOrderingSystem.java && java Project_2_EnhancedWidgetOrderingSystem"
